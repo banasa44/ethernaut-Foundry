@@ -12,3 +12,24 @@ docs/
 
 # Dotenv file
 .env
+
+# Ignore dependencies
+lib/
+
+# Node.js (if applicable)
+node_modules/
+
+# Logs
+*.log
+
+# VSCode and IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Hardhat/Other framework build files (if applicable)
+artifacts/
+build/
