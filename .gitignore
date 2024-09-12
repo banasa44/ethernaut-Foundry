@@ -31,3 +31,5 @@ Thumbs.db
 # Hardhat/Other framework build files (if applicable)
 artifacts/
 build/
+
+remappings.txt
